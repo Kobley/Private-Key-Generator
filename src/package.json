@@ -1,0 +1,15 @@
+{
+  "name": "keygen",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simple Keygen with seasoning",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js -wp false -s kill -cp your -p self"
+  },
+  "author": "Kobley#8008",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
