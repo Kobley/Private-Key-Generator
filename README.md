@@ -1,3 +1,2 @@
 # KeyGen
- simple keygen for private softwares
- basic seasonings
+ simple keygen for private softwares with basic seasonings
